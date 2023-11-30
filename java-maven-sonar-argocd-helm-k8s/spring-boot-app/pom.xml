@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<-- https://mvnrepository.com/artifact/org.sonarsource.scanner.maven/sonar-maven-plugin -->
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
@@ -58,6 +57,7 @@
             <groupId>org.sonarsource.scanner.maven</groupId>
             <artifactId>sonar-maven-plugin</artifactId>
             <version>3.10.0.2594</version>
+	    <url>https://mvnrepository.com/artifact/org.sonarsource.scanner.maven/sonar-maven-plugin</url>
         </dependency>
     </dependencies>
 
